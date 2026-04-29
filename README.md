@@ -1,3 +1,3 @@
 # E-School
-a landing web page called e-school
+a web page called e-school for learning purpose
 https://asiabintemuhammad.github.io/E-School/
